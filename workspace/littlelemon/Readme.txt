@@ -4,12 +4,20 @@ Virtual environment (i.e. python venv) info:
 
 
 Routes (relative to local host):
-   home page: '/restaurant/'
-  
-   API endpoints:
-    '/restaurant/bookings/'
-    'restaurant/menu/'
-    '/restaurant/registration/'
+
+URLs to test:
+
+Little Lemon Index page with static content:
+/restaurant/
+
+
+API Endpoints:
+/restaurant/menu/
+/restaurant/booking/
+/restaurant/booking/tables/
+/auth/users/
+/auth/token/login/
+/restaurant/api-token-auth/
 
 
 Django admin portal login for superuser:
